@@ -1,4 +1,5 @@
-this algorithm is implemented  according to the thesis http://www.ijcai.org/Proceedings/85-2/Papers/014.pdf
+this algorithm is implemented  according to the thesis An efficient context-free  parsing algorithm  
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.614&rep=rep1&type=pdf
 and we use the algorithm to do thai word check
 we rewite the thai word grammer into context free grammer
 the txt file rule.txt rule_low.txt terminals.txt Nonterms.txt all together contains the rules
